@@ -5,7 +5,7 @@ const products =[
         location: "London",
         availableInventory: 10,
         price:  300,
-        image: "image/math.png",
+        image: "images/math.png",
         rating: 3
     },
      {
@@ -14,7 +14,7 @@ const products =[
         location: "London",
         availableInventory: 10,
         price:  100,
-        image: "image/math.png",
+        image: "images/math.png",
         rating: 3
     },
      {
@@ -23,7 +23,7 @@ const products =[
         location: "London",
         availableInventory: 10,
         price:  20,
-        image: "image/math.png",
+        image: "images/math.png",
         rating: 3
     },
     {
@@ -32,7 +32,7 @@ const products =[
         location: "London",
         availableInventory: 10,
         price:  10,
-        image: "image/math.png",
+        image: "images/math.png",
         rating: 3
     },
     {
@@ -41,7 +41,7 @@ const products =[
         location: "London",
         availableInventory: 10,
         price:  2,
-        image: "image/math.png",
+        image: "images/math.png",
         rating: 3
     }
 
